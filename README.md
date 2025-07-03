@@ -22,7 +22,7 @@
 - Estadística Predictiva 
 
 
-## Esquema de cada publicación:
+## Esquema **deseado** de cada publicación:
 #### Todas las publicaciones tendrán la misma estructura:
 
 1. Breve introducción a cada contenido
