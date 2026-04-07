@@ -1,49 +1,43 @@
 # APUNTES DE MATEMÁTICAS Y ESTADÍSTICAS (en permanente update)
 #### Autor: Felipe Leal Arancibia, periodista y estudiante de Ingeniería en Informática.
 
-### ¿Quieres entrar al mundo STEM?
-### ¿Vienes del área humanista y te cuesta asimilar la lógica matemáticas?
-### ¿Te frustras por haber entrado a un bootcamp de Data Science, pero no entendiste más que de forma mecánica?
-### ¿Quiere colocar en práctica tus habilidades básicas en Python, mientras estudias los fundamentos de las matemáticas y estadísticas?
+### ¿Quieres entrar al mundo STEM? _(como yo...)_
+### ¿Vienes del área humanista y te cuesta asimilar la lógica matemáticas? _(como yo...)_
+### ¿Te frustras por haber entrado a un bootcamp de Data Science, pero no entendiste más que de forma mecánica? _(como yo...)_
+### ¿Quiere colocar en práctica tus habilidades básicas en Python, mientras estudias los fundamentos de las matemáticas y estadísticas? _(como yo...)_
 
 ### Con estas publicaciones (en permanente update) te invito a acercarte de otra manera al mundo de la programación y las matemáticas.
 
-#### Porque las matemáticas no son sólo fórmulas: es una descripción analítica y crítica de elementos del mundo real e imaginario. ¡Y tiene más en común con las humanidades de lo que pensamos!
+#### Porque las matemáticas no son sólo fórmulas: es conceptual, es lógica, es transición, y es una descripción analítica y crítica de elementos del mundo real e imaginario. ¡Y tiene más en común con las humanidades de lo que pensamos!
 
 ## Revisaremos algunos contenidos como:
 
-- Aritmética
-- Geometría
-- Trigonometría
-- Álgebra (pre-cálculo)
-- Teoría del Límite Central
-- Cálculo Diferencial
-- Cálculo Integral
-- Estadística Descriptiva
-- Estadística Inferencial
-- Estadística Predictiva
+1) [Python para trabajo con números](/1_PYTHON_PARA_NUMEROS/mp_0_repaso_python.ipynb).
+2) Matemáticas básica e intermedia.
+    - Aritmética
+    - Geometría
+    - Trigonometría
+    - Álgebra (pre-cálculo)
+    - Cálculo Diferencial
+    - Cálculo Integral
+3) Estadísticas y probabilidades
+    - [Conceptos claves](/ESTADISTICAS/intro_estadisticas.ipynb)
+    - Estadística Descriptiva
+    - Estadística Inferencial
+    - Estadística Predictiva
 
 
-## Esquema **deseado** de cada publicación:
-#### Todas las publicaciones tendrán la misma estructura:
+## Esquema _deseado_ de cada publicación:
+#### Todas las publicaciones _tendrían, **idealmente**,_ la misma estructura:
 
-1. Breve introducción a cada contenido
-2. Librería a utilizar en python
-3. Fórmulas asociadas
-4. Ejemplo práctico 1
-5. Ejemplo práctico 2
-6. Conceptos fuerza
-7. Ejercicios propuestos para realizar
-8. ¿Sabías qué? 
-9. Recursos sugeridos
-
-
-## Sólo me detendré en dos contenidos previos:
-
-- Repaso **general** de python (conceptos, sintaxis y ejemplos)
-- Primeras **librerías** para trabajar con estos Apuntes de Matemáticas.
-
-El sistema operativo que utilizo es Linux, por lo que todo código que necesite consola los ejecuto en ese sistema. Incorporaré las líneas de comandos para Windows en la medida que las vaya conociendo/usando. 
+1. Conceptos fuerza
+2. Discusiones o preguntas gatillantes
+3. Tips de Python (librerías a usar)
+4. Aplicación o ejercicios resueltos
+5. Ejercicios propuestos para realizar
+6. Mapa o diagrama síntesis
+7. ¿Sabías qué? 
+8. Recursos sugeridos
 
 
 
@@ -64,16 +58,17 @@ El sistema operativo que utilizo es Linux, por lo que todo código que necesite 
 
 
 
-
 ## Comentario editorial:
 
 ### Estos contenidos son de publicación continua y quizás caótica e imperfecta. No se asegura nada.
+
+### El sistema operativo que utilizo es Linux, por lo que todo código que necesite consola los ejecuto en ese sistema. Incorporaré las líneas de comandos para Windows en la medida que las vaya conociendo/usando. 
 
 ### Los contenidos originales están siendo publicados en [github @santoleal](https://github.com/santoleal) en la medida que se van tomando los apuntes. Contenidos más depurados los voy dejando en mi [sitio web personal](https://felipelealarancibia.cl/). 
 
 ### Están bajo licencia Creative Commons.
 
-### Si deseas reutilizar estos contenidos en tus propias plataformas, ¡bienvenid@! Es un aporte y una retribución a las comunidades del conocimiento libre. 
+### Si deseas reutilizar estos contenidos en tus propias plataformas, ¡bienvenid@! Es un aporte y una **retribución a las comunidades del conocimiento libre**. 
 
 ### Si hay errores o cosas que corregir, no olvide comentar en la respectiva publicación de mi [sitio web personal](https://felipelealarancibia.cl/) u otras plataformas interactivas. Estaré revisando retroalimentación.
 
